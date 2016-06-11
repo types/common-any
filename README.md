@@ -1,2 +1,2 @@
-# common-noop
-A common noop module typings for quick prototyping
+# common-any
+A common any module typings for quick prototyping
